@@ -1,2 +1,2 @@
 # Push-It-
-A New rhythm game by me
+A New rhythm game 
